@@ -3,14 +3,3041 @@
         "title": "Computer Programming 1 Quiz",
         "questions": [
             {
-                "question_text": "question",
+                "question_text": "Direction : Choose the best answer. Which of the following was not helped by technology to advance further in their respective fields?",
                 "choices": [
                     {
-                        "text": "choice",
+                        "text": "Stem-cell Research",
                         "is_correct": false
                     },
                     {
-                        "text": "choice",
+                        "text": "None of the choices",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Oncology",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Cancer Research",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Agriculture",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. What do you call the distribution of information when stored on a physical disk?",
+                "choices": [
+                    {
+                        "text": "All of the choices",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Component",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Sectoring",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Fragmentation",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. Which of the following is not used in API Development?",
+                "choices": [
+                    {
+                        "text": "None of the above",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "HTML",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "XML",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "JSON",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. Which is not a version of Shell?",
+                "choices": [
+                    {
+                        "text": "RSH",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "BASH",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "SSH",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "PSH",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "CSH",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. Which language ranked Top 5 of the most used languages in GitHub as of 2016?",
+                "choices": [
+                    {
+                        "text": "Ruby",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "PHP",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "C",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "C++",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "C#",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. Which is not an application of Embedded Systems Development?",
+                "choices": [
+                    {
+                        "text": "Microsystems",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "All of the choices",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Test Automation",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. What domain deals with analytics?",
+                "choices": [
+                    {
+                        "text": "Cloud Develoment",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Back-end Development",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Embedded Systems Development",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Data Science",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "API Development",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. What domain deals with server configurations?",
+                "choices": [
+                    {
+                        "text": "Data Science",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Back-end Development",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "API Development",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Embedde Systems Development",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Cloud Development",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. Which is not the file extension of Linux applications?",
+                "choices": [
+                    {
+                        "text": ".so",
+                        "is_correct": false
+                    },
+                    {
+                        "text": ".lnx",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Not applicable",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "All of the choices",
+                        "is_correct": false
+                    },
+                    {
+                        "text": ".h",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. What domain deals with web applications?",
+                "choices": [
+                    {
+                        "text": "Embedded Systems Development",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "API Development",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Cloud Development",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Back-end Development",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Data Science",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. Which platform do C# not yet support as of 2016?",
+                "choices": [
+                    {
+                        "text": "Desktop",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Smart TVs",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Automation",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Mobile",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Cloud",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. What type of software that acts as translators for the hardware components of the computer?",
+                "choices": [
+                    {
+                        "text": "Firmwares",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Operating System",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Applications",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Embedded Systems",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Utilities",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. What web browser used the first versions of JavaScript?",
+                "choices": [
+                    {
+                        "text": "Opera",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Firefox",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Netscape Navigator",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Chromium",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Internet Explorer",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. Which is not a subdomain of Application Development?",
+                "choices": [
+                    {
+                        "text": "Cloud Development",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Game Development",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "CLI Applications",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "UI Applications",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "API Development",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. What domain deals with microcontrollers?",
+                "choices": [
+                    {
+                        "text": "Cloud Development",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Embedded Systems Development",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "API Development",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Back-end Development",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Data Science",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "True or False: Given the following work item(s): \"To ask user for basic salary\" \"To ask user for total deductions\" The most probable problem being addressed is \"write a program to determine interest rate.\"",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "What is the minimum number of flowchart symbols is needed for the following problem (excluding the terminator symbols)? \"Write a program to display the quotient of two numbers.\"",
+                "choices": [
+                    {
+                        "text": "3",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "7",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "1",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "5",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "What flowchart symbol is the equivalent for the pseudocode IF ... THEN ... END keyword?",
+                "choices": [
+                    {
+                        "text": "Process",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Preparation",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Conditional",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Data",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is one of the characteristics of technical work items to be written direct to the point.",
+                "choices": [
+                    {
+                        "text": "Specific",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Concise",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Classifiable",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Unambigous",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a symbol in flowcharting used to retrieve value from the user.",
+                "choices": [
+                    {
+                        "text": "Process",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Preparation",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Terminator",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Data",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is one of the characteristics of problem solving in computer programming that aims to meet one specific path.",
+                "choices": [
+                    {
+                        "text": "Verifiable",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Goal-oriented",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Solvable",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Doable in a finite step",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a keyword that specifies a condition to repeat a block of statements.",
+                "choices": [
+                    {
+                        "text": "INPUT",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "CALL",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "OUTPUT",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "WHILE ... DO ... LOOP",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Flowcharts do not support multi-paged configuration.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Given the following work item(s): \"To ask user for age\" \"To ask user for item price\" The most probable problem being addressed is \"write a program to determine the discounted price of an item given the item price and age as entered by the user.\"",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is one of the characteristics of problem solving in computer programming that deals with assessing the validity of the solutions.",
+                "choices": [
+                    {
+                        "text": "Goal-oriented",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Doable in a finite step",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Solvable",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Verifiable",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a symbol with two and only two out-going paths possible.",
+                "choices": [
+                    {
+                        "text": "Decision",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Data",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Off-page Connector",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Process",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "There exists a multi-paged pseudocode.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a keyword that calls user-defined functions.\n",
+                "choices": [
+                    {
+                        "text": "CALL",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "OUTPUT",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "INPUT",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "WHILE ... DO ... LOOP",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a symbol used to indicate a specific action to be done.",
+                "choices": [
+                    {
+                        "text": "Process",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Decision",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Off-page Connector",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Data",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "What flowchart symbol is the equivalent for the pseudocode SET ... TO keyword?",
+                "choices": [
+                    {
+                        "text": "Data",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Conditional",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Preparation",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Process",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "The two (2) pseudocode keywords that are the equivalent for the Data symbol in flowcharts are INPUT and OUTPUT.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Given the problem, \"Write a program to calculate the BMI of the user\", is the following work item(s) appropriate? \"To ask the user for blood type\"",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a keyword that accepts values from the user.",
+                "choices": [
+                    {
+                        "text": "INPUT",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "CALL",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "WHILE ... DO ... LOOP",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "OUTPUT",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a variant of the IF-THEN-END keywords wherein there can be more than one condition, and a separate block if none of the conditions specified matched.",
+                "choices": [
+                    {
+                        "text": "CALL",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "IF ... THEN ... END",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "IF ... THEN ... ELSE IF ... THEN ... ELSE ... END",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "IF ... THEN ... ELSE ... END",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is one of the characteristics of technical work item that deals with being clear in nature.",
+                "choices": [
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Classifiable",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Concise",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Unambiguous",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a keyword used to call user-defined functions",
+                "choices": [
+                    {
+                        "text": "IF ... THEN ... ELSE IF ... THEN ... ELSE ... END",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "CALL",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "IF ... THEN ... ELSE ... END",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "IF ... THEN ... END",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is one of the characteristics of technical work items to be written shortly.",
+                "choices": [
+                    {
+                        "text": "Concise",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Classifiable",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Specific",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Unambiguous",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "What is the minimum number of flowchart symbols for this problem? \"Write a program that displays 'Hello World'.\"",
+                "choices": [
+                    {
+                        "text": "0",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "3",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "1",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "2",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Given the problem, \"Write a program to categorize bills by denomination\", is the following work item(s) appropriate? \"To ask the user for nickname\"",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a keyword or group of keywords in writing a pseudocode which only executes contained statements if all the conditions are met.",
+                "choices": [
+                    {
+                        "text": "CALL",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "IF ... THEN ... ELSE ... END",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "IF ... THEN ... ELSE IF ... THEN ... ELSE ... END",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "IF ... THEN ... END",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "What is the minimum number of pseudocode keywords is needed for the following problem (excluding the terminator symbols)?? \"Write a program to display the product of three numbers from the user.\"",
+                "choices": [
+                    {
+                        "text": "1",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "5",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "7",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "3",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is one of the characteristics of technical work item that deals with process statements.",
+                "choices": [
+                    {
+                        "text": "Classifiable",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Concise",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Unambiguous",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "What is the equivalence of the pseudocode IF ... THEN ... END in flowcharts?",
+                "choices": [
+                    {
+                        "text": "PROCESS",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "CONDITION",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "OUTPUT",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "INPUT",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a symbol in flowcharting used to initialize values and routines.",
+                "choices": [
+                    {
+                        "text": "Process",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Terminator",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Data",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Preparation",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Given the problem below, that is the most probable last work item of the solution? \"Write a program that displays the section of the user\"",
+                "choices": [
+                    {
+                        "text": "\"To display the age\"",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "\"To display section\"",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "\"To calculate the birth year\"",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "\"To enter the username\"",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a symbol used to set values.",
+                "choices": [
+                    {
+                        "text": "Off-page Connector",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Process",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Data",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is one of the characteristics of technical work item that deals with the simplicity of the statement.",
+                "choices": [
+                    {
+                        "text": "Unambiguous",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Classifiable",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Concise",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "All word processing applications can create flowcharts.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is one of the characteristics of problem solving where the problem is non-quality oriented.",
+                "choices": [
+                    {
+                        "text": "Quantifiable",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Verifiable",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Doable in finite steps",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Solvable",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "All flowcharts are convertible to pseudocodes.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "What is the equivalence of the flowchart DISPLAY in pseudocodes?",
+                "choices": [
+                    {
+                        "text": "OUTPUT",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "INPUT",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "PROCESS",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "CONDITION",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is one of the characteristics of technical work items to be distinctive in purpose or aim.",
+                "choices": [
+                    {
+                        "text": "Specific",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Concise",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Unambigous",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Classifiable",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is one of the characteristics of problem solving where the problem can be processed by the computer given a specific conversion scale.",
+                "choices": [
+                    {
+                        "text": "Verifiable",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Doable in finite steps",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Solvable",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Quantifiable",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "What is the minimum number of pseudocode for this problem? \"Write a program that displays 'Hello World'.\"",
+                "choices": [
+                    {
+                        "text": "1",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "2",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "0",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "3",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is one of the characteristics of problem solving in computer programming that deals with the feasibility of the problem in terms of time.",
+                "choices": [
+                    {
+                        "text": "Solvable",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Doable in a finite step",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Verifiable",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Goal-oriented",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a symbol in flowcharting used to display value to the user.",
+                "choices": [
+                    {
+                        "text": "Data",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Process",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Preparatin",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Terminator",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "All pseudocodes are convertible to flowcharts.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is one of the characteristics of technical work item that deals with pseudocodes.",
+                "choices": [
+                    {
+                        "text": "Concise",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Classifiable",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Unambiguous",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "DECLARE keyword is the equivalent for the Preparation symbol of flowcharts in pseudocode?",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Flowcharts can start with other symbol aside from a START terminator.\n",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "What flowchart symbol is the equivalent for the pseudocode CALL keyword?",
+                "choices": [
+                    {
+                        "text": "Data",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Preparation",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Conditional",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Process",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is one of the characteristics of problem solving where the practicality of the solution is counterchecked against a range of test data.",
+                "choices": [
+                    {
+                        "text": "Quantifiable",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Verifiable",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Doable in finite steps",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Solvable",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Given the work item below, what is its most probable problem that it answers? \"To display appendFirstLastname\"",
+                "choices": [
+                    {
+                        "text": "\"Write a program to display the age of the user\"",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "\"Write a program to display the complete name of the user\"",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "\"Write a program that displays the firstname\"",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "\"Write a program to estimate the lifespan of the user\"",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Given the problem below, what is the most probable last work item of the solution? \"Write a program to calculate the age of the user based on his birth year\"",
+                "choices": [
+                    {
+                        "text": "\"To display age\"",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "\"To display the firstname\"",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "\"To display the lastname\"",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "\"To display the birth month\"",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. It was made to allow developers in the Open Source Community to publicly share software by Microsoft.",
+                "choices": [
+                    {
+                        "text": "CodePlex",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "GUI",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "MinGW",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Github",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Variables can go away without declaring the data types.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. It is a user-friendly interface and easy navigation operating system.",
+                "choices": [
+                    {
+                        "text": "GUI",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Github",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "IDE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Microsoft Windows",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Variables store any type of values.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. It is here where we develop and run our software.",
+                "choices": [
+                    {
+                        "text": "C++",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Console",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Operating System",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Version Control",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. This will not need to reference MinGW compiler and libraries per project by inserting our newly installed tools and utilities as Windows-searchable items.",
+                "choices": [
+                    {
+                        "text": "C++",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Github",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "IDE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Visual Studio",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. Compared to the rest of the setup, this installation process will take several steps to complete.",
+                "choices": [
+                    {
+                        "text": "MinGW",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "IDE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "GUI",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Compilers",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "These are the only data type to handle textual values.",
+                "choices": [
+                    {
+                        "text": "Characters",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Integers",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Floats",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Doubles",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Explicit Data Types are also called Variants.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "These are temporary storage of data.",
+                "choices": [
+                    {
+                        "text": "Variables",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Data Types",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Both Variables and Data Types",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "These are the strong-typed data types.",
+                "choices": [
+                    {
+                        "text": "Explicit Data Types",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Implicit Data Types",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Anonymous Variables",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Explicit Variables",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "When determining the gender of a person, the most practical data type to use is Boolean or Integer Values; even when displaying the value directly,without helping texts, to the user.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "These are fully-integrated software that contains various features dedicated to software development.",
+                "choices": [
+                    {
+                        "text": "Version Control",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Compilers",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Integrated Development Environment",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Operating System",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. What is needed to be set up before adding a license?",
+                "choices": [
+                    {
+                        "text": "Github",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Console",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "CodePlex",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "GitIgnore",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a free and public web-based repository that allows distributed version control and source control management tool that uses extended Git functionalities.",
+                "choices": [
+                    {
+                        "text": "GitHub",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Visual Studio Code",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Minimalist GNU for Windows",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Microsoft Windows",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It focuses on Native libraries hence even its Graphical User Interface (GUI) is made using Native Windows Application.",
+                "choices": [
+                    {
+                        "text": "Microsoft Windows",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "GitHub",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Minimalist GNU for Windows",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Visual Studio Code",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. Usually ignored and not to be earnestly read before installing.",
+                "choices": [
+                    {
+                        "text": "Sign up",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "License agreement",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Catalogue",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Admin right",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "These are also called Variants.",
+                "choices": [
+                    {
+                        "text": "Explicit Variables",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Anonymous Variables",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Implicit Data Types",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Explicit Data Types",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "This is the act of saying we will be using a variable of a specific data type.",
+                "choices": [
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Declaring",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Retrieving",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Assigning",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. It is made using Native Windows Application.",
+                "choices": [
+                    {
+                        "text": "IDE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Github",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "MinGW",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "GUI",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. Considering the low number of files that are processed for small projects this is optional.",
+                "choices": [
+                    {
+                        "text": "Github",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Compilers",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Version Control",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "IDE",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. What is needed to be installed to support C and C++ applications for Visual Studio?",
+                "choices": [
+                    {
+                        "text": "MinGW",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "IDE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Visual Studio Code",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "C++",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "These are declared variables.",
+                "choices": [
+                    {
+                        "text": "Anonymous Variables",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Implicit Data Types",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Explicit Data Types",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Explicit Variables",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "These are limits placed to handle specific data.",
+                "choices": [
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Data Types",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Variables",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Both Variables and Data Types",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "This tool varies mainly on how they support internal libraries, up-to-date third-party libraries and code optimization.",
+                "choices": [
+                    {
+                        "text": "Integrated Development Environment",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Version Control",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Compilers",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Operating System",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Long can store up to 65,535 in value.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "This is the act of storing values to variables.",
+                "choices": [
+                    {
+                        "text": "Assigning",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Declaring",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Retrieving",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Float can store up to -9.10 x 1030.\n",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. To test if you correctly performed the steps in configuring the Microsoft windows path what is to be opened first?",
+                "choices": [
+                    {
+                        "text": "Systerm Properties",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Advance Settings",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Environment Variables",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Command prompt",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Explicit Variables are declared outside the context of the application.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "This command prompt-like window that will help build fundamentals in computer programming.",
+                "choices": [
+                    {
+                        "text": "Visual Studio",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Graphical User Interface",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Console",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Git",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "What is needed to be downloaded for the convenience of users working different Microsoft Windows Architecture?",
+                "choices": [
+                    {
+                        "text": "Visual Studio Code",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "GitHub",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Minimalist GNU for Windows",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Microsoft Windows",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer.  Open Source Community's most famous and most used online version control repository since 2016.",
+                "choices": [
+                    {
+                        "text": "Github",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "C++",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "MinGW",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "IDE",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Boolean use only one bit.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Implicit Variables are declared within the context of the application.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Anonymous Variables are labeled by the Computer.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. They organize source codes and development artifacts.",
+                "choices": [
+                    {
+                        "text": "MinGW",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Respository",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "C++",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "IDE",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "What is needed to be verified correct and accurate before creating a repository?",
+                "choices": [
+                    {
+                        "text": "Fields",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Disk Space",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Administrative Rights",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Permissions",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "This is the act of getting stored values from variables.",
+                "choices": [
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Retrieving",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Declaring",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Assigning",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. It presents minimalistic approach in presenting tools and libraries necessary to develop application for Microsoft Windows.",
+                "choices": [
+                    {
+                        "text": "MinGW",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Compilers",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Repository",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Visual studio code",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Structures are part of Referenced Data Types.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "-9 is treated as true.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : Choose the best answer. It is needed to be enabled to compile our selected compiled programming language to executables.",
+                "choices": [
+                    {
+                        "text": "Console",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "MinGW",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "IDE",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "GUI",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Implicit Data Types can contain either integer or character.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "This allow you to revert and secure copies of changes that you will commit to the repository.",
+                "choices": [
+                    {
+                        "text": "Integrated Development Environment",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Compilers",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Operating System",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Version Control",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "This is a way to organize the development files and configurations in a centralized repository.",
+                "choices": [
+                    {
+                        "text": "Operating System",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Compilers",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Integrated Development Environment",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Version Control",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Data Types limit the naming convention in variables.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is one of the main thing we consider when undergoing Software Development.",
+                "choices": [
+                    {
+                        "text": "Operating System",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Integrated Development Environment",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Version Control",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Compilers",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "These are unnamed variables.",
+                "choices": [
+                    {
+                        "text": "Explicit Variables",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Anonymous Variables",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Explicit Data Types",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Implicit Data Types",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Converting long to int introduces naming problems.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False Local Variables are variables declared outside of \"int main egg\" function and can only be accessed outside.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False The increment/decrement happen at the start of the body.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "This statement is used in undefined conditional expressions.",
+                "choices": [
+                    {
+                        "text": "Else",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "If-Switch",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "If-Else",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Switch",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False Statement wherein it terminates the execution of the current iteration is called Break Statement.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "These are the two types of conditionals in C++.",
+                "choices": [
+                    {
+                        "text": "Else",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "If-Else",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Switch",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "If-Switch",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False The Case Statement is part of IF Statement.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False cout is used to output a string to inform the user about the conditions need.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "This act means to create a different set of statement based on conditions.",
+                "choices": [
+                    {
+                        "text": "Local Variables",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Global variables",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Conditionals",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a conditional that compares one specific variable with a set of constants.",
+                "choices": [
+                    {
+                        "text": "If-Else",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "If-Switch",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Switch",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Else",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False Else statement is used in undefined conditional expressions.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False\nGlobal variables are variables declared inside of \"int main egg\" functions.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "The act where it is declared inside of a specific code block and can only be access inside of the said code block.",
+                "choices": [
+                    {
+                        "text": "Conditionals",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Global variables",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Local Variables",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False Is it possible to create a nested conditional depending on the need?",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "This code block is the entry point of C++ applications.",
+                "choices": [
+                    {
+                        "text": "using namespace std;",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "#include<iostream>",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "int main🥚",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "return EXIT_SUCCESS;",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "This special variable manages the flow of the loop.",
+                "choices": [
+                    {
+                        "text": "Body",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Increment/Decrement",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Counter",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Condition",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False Conditionals do not let us to expand the capabilities of our applications through scenarios.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "How many components build up the phases that a looping statement need to undergo internally?",
+                "choices": [
+                    {
+                        "text": "Three (3)",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Five (5)",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Four (4)",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "One (1)",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False Condition is the phase in looping statement where the statements inside the loop are executed.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It repeats a series of statement that aim to reach a certain condition.",
+                "choices": [
+                    {
+                        "text": "Condition",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Looping",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Initialization",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Iteration",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False  Code Block is a series of programming statement that is located outside of curly brackets/braces; opened by \"{\", and closed by \"}\".",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False For Loops is a statement in C++ where the body phases occur within the parenthesis of the statement.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is phase in looping where the counter in increasing or decreasing.",
+                "choices": [
+                    {
+                        "text": "Counter",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Increment/Decrement",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Condition",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Body",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False The Default Statement is used when the execution of the case statement fails.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False A statement wherein the used is to terminates the execution of the entire loop is called Continue statement.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False In a series of statements, looping in C++ is not allowed to repeat.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "This looping statement in C++ where the condition is evaluated right before the execution.",
+                "choices": [
+                    {
+                        "text": "For Loop",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Do-While Loop",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "While Loop",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "This statement is used to perform different actions per its condition.",
+                "choices": [
+                    {
+                        "text": "If-Else",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "If-Switch",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Else",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Switch",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False #include is the act of a function saying everything inside is belongs to it.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is an open source cross-platform IDE that supports a series of programming language.",
+                "choices": [
+                    {
+                        "text": "Microsoft Windows",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Visual Studio Code",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Minimalist GN for Windows",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Code Blocks",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Conditional means to set a different set of statements based on conditions.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "The act where it is declared outside of the function.",
+                "choices": [
+                    {
+                        "text": "Conditionals",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Global variables",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Local Variables",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a phase in looping where the statements inside the loop are executed.",
+                "choices": [
+                    {
+                        "text": "Body",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Counter",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Increment/Decrement",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Condition",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False A statement wherein the increment/decrement can occur before the other statements of the body is called While statement.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False The use of breaks is to prevent next conditions to be executed causing the switch statement to be executes.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False A variable is used to store permanent value in a program.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False A statement where the body is executed first before the condition is evaluated is called do while statement.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False Initialization used a special variable called count.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False Switch statement is a conditional that compares one specific variable with a set of constants.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is located within a curly brackets/braces; opened by “{“, and closed by “}”.",
+                "choices": [
+                    {
+                        "text": "Microsoft Windows",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Visual Studio Code",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Minimalist GN for Windows",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Code Blocks",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False A typical initialization of a counter is set to 0.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False A condition where it evaluated right before the body executes is called While Loop.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False A statement wherein the increment/decrement always occurs after the statements of the body is called FOR statement.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is the phase in looping statements where a variable called counter.",
+                "choices": [
+                    {
+                        "text": "Looping",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Iteration",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Condition",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Initialization",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a special variable wherein set of initial value are place.",
+                "choices": [
+                    {
+                        "text": "Increment/Decrement",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Body",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Condition",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Counter",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False Is for statement a range-based?",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "This phase in looping statements that dictates whether the loop should stop or continue.",
+                "choices": [
+                    {
+                        "text": "Iteration",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Initialization",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Looping",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Condition",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False The counters are separated by open and close parenthesis.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False The #include is not used for system functions.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is equivalent to one cycle of repetition.",
+                "choices": [
+                    {
+                        "text": "Iteration",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Looping",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Condition",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Initialization",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Direction : True or False Body is the phase in looping where it dictates whether the loop will start or continue.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
                         "is_correct": true
                     }
                 ]
