@@ -3041,6 +3041,2043 @@
                         "is_correct": true
                     }
                 ]
+            },
+            {
+                "question_text": "The practice of Object-Oriented Programming came as early as the year 1976.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a subset Object-Object Programming which focuses in abstract representations of the objects.",
+                "choices": [
+                    {
+                        "text": "Object-based",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Prototype-based",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Class-based",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "State-based",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "An array can contain only one value of data type.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "A constructor is created to initialize several properties or perform operations for the class upon declaration.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It dictates the maximum number of values stored by an array.",
+                "choices": [
+                    {
+                        "text": "Size",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Index",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Array",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is impossible to create five-dimensional arrays because its resource expensive.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "We used FOR loop to get user output.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a programming language specialized in simulations.",
+                "choices": [
+                    {
+                        "text": "DynaBook",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Simula",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Perl",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Sims",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a representation of tangible and intangible materials in Object-Oriented Programming.",
+                "choices": [
+                    {
+                        "text": "Object-Oriented Programming",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Header Files",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Class",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Objects",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a separate code block that performs a specific task.",
+                "choices": [
+                    {
+                        "text": "Parameter",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Function",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Body/Body of the Function",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Statements found inside of the curly braces are called Code Blocked.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "A separate C++ files that contains supplementary codes for applications is called Header files.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a programming centered in the use of objects.",
+                "choices": [
+                    {
+                        "text": "Objecs",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Header Files",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Object-Oriented Programming",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Class",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is used as an alias as reference to the function.",
+                "choices": [
+                    {
+                        "text": "Body/Body of Code Blocks",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Function Name",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Void/Void Return Type",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Return Type",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a subset Object-Object Programming which focuses in reusability of the objects.",
+                "choices": [
+                    {
+                        "text": "Prototype-based",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Class-based",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "State-based",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Object-based",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "A programming centered in the use of objects is called Object-Oriented Program.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "A function shall return as its final execution is called reoccurrence data type.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "In the discussion, what is the allocated size for an int data type?",
+                "choices": [
+                    {
+                        "text": "8 bits",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "1 bit",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "32 bits",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "64 bits",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "In the discussion, what is the allocated size for a char data type?",
+                "choices": [
+                    {
+                        "text": "8 bits",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "64 bits",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "32 bits",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "1 bit",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a separate C++ file which contains supplementary codes for applications.",
+                "choices": [
+                    {
+                        "text": "Class",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Object-Oriented Programming",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Header Files",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Objects",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "What is the usual arrangement for a numerical value?\n",
+                "choices": [
+                    {
+                        "text": "Counting",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Descending",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Ascending",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Sorting",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "This code block can adopt input from another code block.",
+                "choices": [
+                    {
+                        "text": "Body/Body of the Function",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Parameter",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Function",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "The main function serves as an entry point of any C++ application.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "These are the set of statements found inside the curly braces.",
+                "choices": [
+                    {
+                        "text": "Function Name",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Return Type",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Body/Body of Code Blocks",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Void/Void Return Type",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Functions inside of an object is called Properties [Class].",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "This property states that the value cannot be changed.",
+                "choices": [
+                    {
+                        "text": "Configurability",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Immutability",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Maintainability",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Permutability",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "The use of the statement \"using namespace std;\" is to ask permission in C++ that we will use std.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is the result of an incorrect action or operation.",
+                "choices": [
+                    {
+                        "text": "Bug",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Defect",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Error",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Exception",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "What is the first computer created using Object-Oriented Programming?",
+                "choices": [
+                    {
+                        "text": "Simula",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Perl",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "DynaBook",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Sims",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is an abstract representation of objects.",
+                "choices": [
+                    {
+                        "text": "Objects",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Object-Oriented Programming",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Class",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Header Files",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "The first personal computer created using Object-Oriented Programming is PC DOS by IBM.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "In what year does the practice of Object-Oriented Programming started?",
+                "choices": [
+                    {
+                        "text": "1969",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "1967",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "1968",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "The one that dictates the maximum value stored by an array is called proportions.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a data type where the function shall return as its execution.",
+                "choices": [
+                    {
+                        "text": "Void/Void Return Type",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Function Name",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Return Type",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Body/Body of Code Blocks",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Is it possible for a constructor to have a same number of parameters?",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "In sorting problems, it is not allowed to arrange numerical values in ascending forms.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is used to itemize the input values of the function.",
+                "choices": [
+                    {
+                        "text": "Parameter",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Body/Body of the Function",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Function",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "The index declares which element of the array is on being process.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "In the discussion, the allocated size for a bool data type is 32 bits.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Functions are also called procedures.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "A group of statements within a code block is called body of the function.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Exception is the result of incorrect action committed unexpectedly.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "In C++, the abstract representation of objects is called class.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "The return EXIT_SUCCESS statement is used for closing remarks.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "The Methods [Class] is used to give primary information centered on the object.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "In the discussion, what is the allocated size for a double data type?",
+                "choices": [
+                    {
+                        "text": "8 bits",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "1 bit",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "32 bits",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "64 bits",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a group of statements contained by a code block.",
+                "choices": [
+                    {
+                        "text": "Function Name",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Void/Void Return Type",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Body/Body of Code Blocks",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Return Type",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Parameter is a component of the function which itemizes the input values of the function.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Smalltalk was the Object-Oriented Programming Language built for Dynabook.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Function name and variable name are similar?",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "The syntax for the parameter is dataType variableName.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "A class cannot contain more than one constructor.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It informs the application that the function shall not return any data.",
+                "choices": [
+                    {
+                        "text": "Function Name",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Return Type",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Void/Void Return Type",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Body/Body of Code Blocks",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "A function supports only one parameter.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "The #include statement is used for string input and output of C++.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "A programming language specialized in simulations is called Simula.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It limits the access to the properties and methods under it to only the class where they are defined is called protected scope.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "A function can call several other functions.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It limits the access to the properties and methods under it to the class itself and to all classes that inherit it is called private scope.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is created to initialize operations for the class upon declaration.",
+                "choices": [
+                    {
+                        "text": "Initializer",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Instantiation",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Destructor",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Constructor",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It makes the properties and methods under it accessible to anywhere within and outside the class is called public scope.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "A property that states if a value cannot be changed is called immutability.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It serves as an entry point of any C++ application.",
+                "choices": [
+                    {
+                        "text": "int sum 🥚",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "int main 🥚",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "int entry 🥚",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "int init 🥚",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "The #include statement is used for the system function.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "This integer dictates what element of array is being process.",
+                "choices": [
+                    {
+                        "text": "Array",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Size",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Index",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Snippet is defined as part of an entire code.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "What variable contains more than one value of similar data types?",
+                "choices": [
+                    {
+                        "text": "Index",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Array",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Size",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "variableName an alias used to remark an array.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is an array of characters.",
+                "choices": [
+                    {
+                        "text": "Text",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "String and Text",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "String",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Does C++ allow array of dynamic sizes?",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Does counting problem means that the values of given array is being arranged.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "The ________ statement mainly uses integers as value to be evaluated.",
+                "choices": [
+                    {
+                        "text": "else if",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "if",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "switch",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "else",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Accessors should never assign values to its referenced properties.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "There are six (6) principles of C++.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Anonymous Variables are labeled by the _____________.",
+                "choices": [
+                    {
+                        "text": "User",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Computer",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Microcontroller",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Developer",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Mutator is a method that enables the assignment of values to our properties hidden by scopes.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "___________ enabled developers to repeat a sequence of statements given the right conditions.",
+                "choices": [
+                    {
+                        "text": "Selections",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Conditionals",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Loops",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Functions",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Variables are pointers.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "__________________ is a looping statement where the body is executed first before the condition is evaluated.",
+                "choices": [
+                    {
+                        "text": "do-while",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "while",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "do-until",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "for",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "The abstraction principle ensures that only the necessary methods are presented outside of the current class.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "The go-in-between of the other programming languages are the mid-level programming languages.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Classes are part of ____________________ Data Types.",
+                "choices": [
+                    {
+                        "text": "Referenced",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Object",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Primitive",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Dereferenced",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "The programming language designed by Bjarne Stroustrup in ____ was initially proposed as a high-level programming language",
+                "choices": [
+                    {
+                        "text": "1982",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "1980",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "1967",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "1979",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Accessors is a method that enables the retrieval of values hidden by scopes.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "The newly developed IDE from Microsoft that supports various programming languages and acts as a subset of Visual Studio is called ________________.",
+                "choices": [
+                    {
+                        "text": "Visual Studio Enterprise",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Visual Studio 2017",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Visual Studio Code",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Visual Studio Professional",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "We use ___________________ to test the system path if defined.",
+                "choices": [
+                    {
+                        "text": "Shell",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "WinVer",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Environment",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Command Prompt",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "What kind of somewhat image does pointer create with the variable they are pointed to?",
+                "choices": [
+                    {
+                        "text": "Copy Image",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Duplicate Image",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Mirror Image",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Header files are separate C++ files which contain supplementary codes for the application.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Functions can use ___________ in its parameters.",
+                "choices": [
+                    {
+                        "text": "Variables",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "References",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Constants",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Pointers",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Converting a value from a data type to another is called changes.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Variables can be reassigned a new address without redeclaring the variable.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "In this discussion, how many principles does OOP have?",
+                "choices": [
+                    {
+                        "text": "Four (4)",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Two (2)",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Three (3)",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "One (1)",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is the operator used to retrieve the address of the variable.",
+                "choices": [
+                    {
+                        "text": "Dereferencing (*)",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Address Of (&)",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "References",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Pointers",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Simu is a programming language specialized in simulations.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "A statement wherein the increment/decrement always occurs after the statements of the body is called ________ statement.",
+                "choices": [
+                    {
+                        "text": "while",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "do-while",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "for",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "do-until",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a method which enables the retrieval of values hidden by scopes.",
+                "choices": [
+                    {
+                        "text": "Abstraction",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Accessors",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Encapsulation",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Mutators",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Variables are holding _____________ in their allocated spaces.",
+                "choices": [
+                    {
+                        "text": "Constant",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Parameters",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Actual Value",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Address",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "The _________________ phase decreases the value of the counter.",
+                "choices": [
+                    {
+                        "text": "Decrement",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Increment",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Demerit",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Merit",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "_______________ programming languages allows developer to focus on the logic of the application they are developing.",
+                "choices": [
+                    {
+                        "text": "Mid-level",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Low-level",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Machine-code",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "High-level",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Low-level programming languages are the easiest to manage of all the categories of programming languages.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "This principle extends the features and functionalities of existing classes and interfaces.",
+                "choices": [
+                    {
+                        "text": "Overriding",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Polymorphism",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Inheritance",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Overloading",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Cis as what type of programming language?",
+                "choices": [
+                    {
+                        "text": "Low-level Programming Languages",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Mid-level Programming Languages",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "High-level Programming Languages",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "References are used to point to multiple addresses in the memory.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Global variables are variables declared _____________ int main() code block.",
+                "choices": [
+                    {
+                        "text": "Outside",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "After",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Inside",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Before",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "References are constant variables.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Inheritance ensures that only the necessary methods are presented outside of the current class.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Encapsulation extends the features and functionalities of existing classes and interfaces.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Mid-level Programming Languages exhibit _______ abstraction.",
+                "choices": [
+                    {
+                        "text": "Strong",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Mutable",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Transmutable",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Direct",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Implicit Data Types can store _____ type of values.",
+                "choices": [
+                    {
+                        "text": "Implicit",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Explicit",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Selected",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Any",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "DynaBuk is the first computer created using Object-Oriented Programming?",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "The ________ rights allow users to escalate the permission granted.",
+                "choices": [
+                    {
+                        "text": "Default User",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Power User",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Administrator",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Desktop User",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "__________ statement is used in undefined conditional expressions.",
+                "choices": [
+                    {
+                        "text": "end if",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "if",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "else",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "else if",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "These variables that may not declare their data types are called ____________ Data Types.",
+                "choices": [
+                    {
+                        "text": "Explicit",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Optional",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Implicit",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Random",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "References are special types of variables that store the address in the memory rather than the actual value or constant.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "References are containers that are preceded with an asterisk.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "References are ____________ variables.",
+                "choices": [
+                    {
+                        "text": "Parameters",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Constant",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Actual Value",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Address",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Class-based is a subset of Object-Object Programming that focuses in reusability of the objects.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Pointers are used to point to ___________ in the memory.",
+                "choices": [
+                    {
+                        "text": "Address",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Actual Value",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Parameters",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Constants",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "The * symbol stands for Address Of operator.",
+                "choices": [
+                    {
+                        "text": "True",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "It is the programming languages that exhibit the strongest abstraction of its programming schema.",
+                "choices": [
+                    {
+                        "text": "High-level Programming Languages",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Mid-level Programming Languages",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Low-level Programming Languages",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is the programming languages that exhibit strong abstraction and mid-range access to the memory and operating system.",
+                "choices": [
+                    {
+                        "text": "Mid-level Programming Languages",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "High-level Programming Languages",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Low-level Programming Languages",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "None of the choices",
+                        "is_correct": false
+                    }
+                ]
             }
         ]
     }
